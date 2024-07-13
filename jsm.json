@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;2c656ea3596df85712ab9839689aed16",
+"spider":"./jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
 "lives":[
 {"name":"itv","type":0,"url":"./itvlist.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"dog","type":0,"url":"./dog.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
