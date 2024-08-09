@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="AMC电影台" tvg-name="AMC电影台" tvg-logo="" group-title="推荐频道",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1,tvg-id="California Music" tvg-name="California Music" tvg-logo="" group-title="推荐频道",California Music
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="" group-title="推荐频道",NICKELODEON
+http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1,tvg-id="周星驰[2]" tvg-name="周星驰[2]" tvg-logo="" group-title="推荐频道",周星驰[2]
 https://bd-flv.yy.com/live/15013_xv_1354658049_1354658049_0_0_0-15013_xa_1354658049_1354658049_0_0_0-0-0-0-0-0-1723171437326964.flv?codec=orig&appid=15013&rts_tk=0e7d60f90df416566c13d5e3d9cf9423&secret=8e750107579095cd89281c9fb3950b20&t=1723262517&stream_key=15013_xv_1354658049_1354658049_0_0_0&r_stream_key=15013_xa_1354658049_1354658049_0_0_0&channelid=1354658049&line_seq=6&cp_id=4&mtk=1&rts=1&ctx=eyJydHNfYXV0aCI6MiwiZGVmX3Bhc3MiOjF9&r=enter&playeruid=0&uuid=781ac69e-6af9-46e4-9846-f731f18a188c
 https://al.flv.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.flv?ctype=tars_mp&fs=bgct&seqid=3191100124504&sv=2024080912&t=102&uid=1467923813177&uuid=2330496836&ver=1&wsSecret=d2cdfdd040afe9f8d39d272ad5d4cb55&wsTime=66b5e9d7
@@ -15487,42 +15491,3 @@ http://cdn9.1678520.xyz/xsj1.php?id=golden-chinese-drama&xl=0
 rtmp://tv.qntv.net/channellive/ch2
 #EXTINF:-1,tvg-id="齐鲁" tvg-name="齐鲁" tvg-logo="" group-title="其他频道",齐鲁
 http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="RACING.COM" tvg-name="RACING.COM" tvg-logo="" group-title="其他频道",RACING.COM
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1,tvg-id="TELEZÜRI" tvg-name="TELEZÜRI" tvg-logo="" group-title="其他频道",TELEZÜRI
-https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
-#EXTINF:-1,tvg-id="°" tvg-name="°" tvg-logo="" group-title="其他频道",°
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/2.m3u8
-#EXTINF:-1,tvg-id="ÓČKO" tvg-name="ÓČKO" tvg-logo="" group-title="其他频道",ÓČKO
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="ВИСТЕЛ" tvg-name="ВИСТЕЛ" tvg-logo="" group-title="其他频道",ВИСТЕЛ
-https://live.vtv.mk/live/vtv/chunks.m3u8
-#EXTINF:-1,tvg-id="ВОЛГА" tvg-name="ВОЛГА" tvg-logo="" group-title="其他频道",ВОЛГА
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1,tvg-id="ЕНИСЕЙ" tvg-name="ЕНИСЕЙ" tvg-logo="" group-title="其他频道",ЕНИСЕЙ
-http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1,tvg-id="ЕСПРЕСО" tvg-name="ЕСПРЕСО" tvg-logo="" group-title="其他频道",ЕСПРЕСО
-http://141.95.55.143/CH593/index.m3u8
-#EXTINF:-1,tvg-id="ИСТОРИЯ[2]" tvg-name="ИСТОРИЯ[2]" tvg-logo="" group-title="其他频道",ИСТОРИЯ[2]
-http://31.148.48.15/Istoriya/index.m3u8
-http://31.148.48.15:80/Istoriya/index.m3u8
-#EXTINF:-1,tvg-id="КИНОПОКАЗ" tvg-name="КИНОПОКАЗ" tvg-logo="" group-title="其他频道",КИНОПОКАЗ
-http://31.148.48.15/Kinopokaz/index.m3u8
-#EXTINF:-1,tvg-id="КТК" tvg-name="КТК" tvg-logo="" group-title="其他频道",КТК
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1,tvg-id="М2" tvg-name="М2" tvg-logo="" group-title="其他频道",М2
-http://live.m2.tv/hls3/720/stream.m3u8
-#EXTINF:-1,tvg-id="МИЛЛЕТ" tvg-name="МИЛЛЕТ" tvg-logo="" group-title="其他频道",МИЛЛЕТ
-https://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1,tvg-id="НОВИНИ" tvg-name="НОВИНИ" tvg-logo="" group-title="其他频道",НОВИНИ
-http://ott.watch/stream/4LMG17SVYT/438.m3u8
-#EXTINF:-1,tvg-id="ПОЕХАЛИ!" tvg-name="ПОЕХАЛИ!" tvg-logo="" group-title="其他频道",ПОЕХАЛИ!
-http://31.148.48.15/Poehali/index.m3u8
-#EXTINF:-1,tvg-id="СВОЁ" tvg-name="СВОЁ" tvg-logo="" group-title="其他频道",СВОЁ
-http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
-#EXTINF:-1,tvg-id="สุวรรณภูมิ" tvg-name="สุวรรณภูมิ" tvg-logo="" group-title="其他频道",สุวรรณภูมิ
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1,tvg-id="หลวงพ่อทัตตชีโว" tvg-name="หลวงพ่อทัตตชีโว" tvg-logo="" group-title="其他频道",หลวงพ่อทัตตชีโว
-https://live.zoom072.com/ch6/ch6.m3u8
-#EXTINF:-1,tvg-id="코코비TV" tvg-name="코코비TV" tvg-logo="" group-title="其他频道",코코비TV
-https://jmp2.uk/SamsungTVPlus/KRBB500035VF.m3u8
