@@ -1,3 +1,6 @@
+
+日本AV,#genre#
+
 日本AV23,http://12156.vod.redtraffic.xyz/ph5b548f6dd8941/play.m3u8
 日本AV24,http://12156.vod.adultiptv.net/ph5b8c902e07283/play.m3u8
 日本AV25,http://6122.vod.adultiptv.net/ph57dc082d2e128/play.m3u8
@@ -112,6 +115,9 @@
 日本AV3017,https://m3u8.41cdn.com/videos/201910/0y7WTW0v/hls/0y7WTW0v.m3u8
 日本AV3018,https://m3u8.34cdn.com/videos/201908/8v33bdqt/hls/8v33bdqt.m3u8
 日本AV3019,https://m3u8.48cdn.com/videos/201908/sb6ksmxx/hls/sb6ksmxx.m3u8
+
+彩虹台,#genre#
+
 彩虹电影,http://suo.im/9sOLD
 一本道01,https://2.ddyunbo.com/20190904/HqGckgKl/index.m3u8 
 爆乳:完整版,https://2.ddyunbo.com/20190904/m94xaoPh/index.m3u8 
@@ -173,6 +179,9 @@ Rough,http://cdn.adultiptv.net/rough.m3u8
 Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
 Analvhttp://cdn.adultiptv.net/anal.m3u8 
 Compilation,http://cdn.adultiptv.net/compilation.m3u8 
+
+音乐,#genre#
+
 美女热舞,https://v2024.sysybf.com/20241223/iQDuCKCu/index.m3u8?_refluxos=a10
 美女热舞,https://v2024.sysybf.com/20241223/NMuNCNQc/index.m3u8?_refluxos=a10
 dj留什么给你,https://play.xm.68tool.com/video/m3u8/2023/03/25/86cb342d/playlist.m3u8?_refluxos=a10
@@ -446,6 +455,9 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 好歌分享精选6首伤感DJ舞曲HD,https://vdse.bdstatic.com//0c87c8977d0a33498fe7362d3c60c22c.mp4
 2021爆红6首女生版伤感DJHD,https://vdse.bdstatic.com//2e77709380ad7e6163e80c4d5c179689.mp4
 美人热舞洗脑DJ舞曲HD,https://vdse.bdstatic.com//3700f6b78ceaf0f4a5313f4d68c95b72.mp4
+
+女优,#genre#
+
 松永纱奈1,https://fc.maa1809.com/m/roqelpimmo/roqelpimmo.m3u8
 松永纱奈2,https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
 松永纱奈5,https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
@@ -494,6 +506,9 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 笑田凛,https://fc.maa1804.com/b/ejgoepbpqz/ejgoepbpqz.m3u8
 长谷川,https://fc.maa1804.com/e/qkqajdfulg/qkqajdfulg.m3u8
 春日部,https://fc.maa1804.com/m/xdasdgvdzp/xdasdgvdzp.m3u8
+
+专题,#genre#
+
 一本道_美星,https://fc.maa1804.com/n/jankufiltx/jankufiltx.m3u8
 一本道_碧,https://fc.maa1804.com/e/ganqalkwlc/ganqalkwlc.m3u8
 一本道_爱原,https://fc.maa1804.com/b/whsacldsob/whsacldsob.m3u8
@@ -506,318 +521,6 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 东京_今村,https://fc.maa1804.com/e/uialbboadb/uialbboadb.m3u8
 一本道_音羽,https://fc.maa1804.com/n/voobaailua/voobaailua.m3u8
 一本道青山未来,https://fc.maa1804.com/b/tjofshghra/tjofshghra.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",BLK-458奏音花音
-https://videomy.yongaomy.com/20211028/aA6JBM10/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",APKH-123奏音花音
-https://videomy.yongaomy.com/20210825/d1JxSvZO/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",DASD-675深田咏美
-https://videomy.yongaomy.com/20211028/ebxtDsUR/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",SDMM-064奏音花音
-https://videomy.yongaomy.com/20211112/rw3LhAQi/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",WANZ-957奏音花音
-https://videomy.yongaomy.com/20211017/jSi0DQcD/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",AMBI-112奏音花音
-https://videomy.yongaomy.com/20211023/MtGqJmJr/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",KNAM-005奏音花音
-https://videomy.yongaomy.com/20211106/5KZCzleX/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",MIAA-248奏音花音
-https://videomy.yongaomy.com/20210721/6NCwf1nt/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib239西川
-https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib182西川
-https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib146西川
-https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib004西川
-https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib002姬川
-https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib288西川
-https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib337西川
-https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib311西川
-https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib363西川
-https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib420丘笑
-https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib375姬川
-https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib339姬川
-https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib375姬川
-https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib433姬川
-https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib431北川
-https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib477立花琉莉
-https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib531立花琉莉
-https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib474立花琉莉
-https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib533丘笑
-https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib495神田
-https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib457北川
-https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib449神田
-https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib478北川
-https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib589立花琉莉
-https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib563七濑
-https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib639神田
-https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib563爱莉
-https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib674杏奈
-https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib665姬川
-https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib541神田
-https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib665姬川
-https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib744立花琉莉
-https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib710神田
-https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib717杏奈
-https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib758美笑爱
-https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",carib675神田
-https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",cjod-238奏音花音
-https://videomy.yongaomy.com/20211007/R4AHRbjR/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1275水谷
-https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1262西川
-https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1395姬川
-https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1544姬川
-https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1243水谷
-https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo0705杏奈
-https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1478丘笑
-https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1199希笑
-https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1590神田
-https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1570神田
-https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1601北川
-https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1638姬川
-https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1722杏奈
-https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1691神田
-https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",heyzo1786杏奈
-https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",hnd-842奏音花音
-https://videomy.yongaomy.com/20211009/MZnz3FCC/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",mifd070永瀬
-https://fc.maa1808.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo311水谷
-https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo273水谷
-https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo366水谷
-https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo419西川
-https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo350西川
-https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo450西川
-https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo488姬川
-https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo518姬川
-https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo597西川
-https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo613七濑
-https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo618水谷
-https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo559北川
-https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo793杏奈
-https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",pondo764杏奈
-https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",siro1774奏音花音
-https://videomy.yongaomy.com/20210716/1uTF5FjS/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",三原穗花加藤绫野
-https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",伊藤优希
-https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",体液浓密-新名
-https://videomy.yongaomy.com:8091/20200104/wtygLh5i/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",九重环奈1
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-493/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",九重环奈7
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-535/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",九重环奈6
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-513/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",九重环奈5
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-525/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",九重环奈2
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-391/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",九重环奈3
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-422/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",九重环奈4
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-503/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",侍奉女仆
-https://videomy.yongaomy.com:8091/20200126/MIDE-066/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",元气姐姐
-https://videomy.yongaomy.com:8091/20200126/IPX-434/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",加勒比206西川
-https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",加勒比350丘笑
-https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",加勒比001THE4名
-https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",加勒比612希笑
-https://fc.maa1808.com/n/kqnjvnpjkm/kqnjvnpjkm.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",咲咲原凛星奈爱
-https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",嘿嘿1768神田
-https://fc.maa1808.com/g/mllotqnpol/mllotqnpol.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",嘿嘿立花琉莉
-https://fc.maa1808.com/c/rkxhwovsgf/rkxhwovsgf.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",吉岗
-https://videomy.yongaomy.com:8091/20191223/4ZcJ3aPo/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",全神贯注
-https://videomy.yongaomy.com:8091/20200126/IPX-428/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",去学校
-https://videomy.yongaomy.com:8091/20200126/IPZ-949/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",制服美少女2
-https://videomy.yongaomy.com:8091/20200104/ssClhQbc/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",内衣模特-新名
-https://videomy.yongaomy.com:8091/20191223/1HZ8kCxt/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",大觉醒伊贺
-https://videomy.yongaomy.com:8091/20200126/SSNI-681/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌5
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-929/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌10
-https://videomy.yongaomy.com:8091/20200110/SNIS-463/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌12
-https://videomy.yongaomy.com:8091/20200112/SNIS-440/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌2
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-230/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌4
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-270/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌3
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-249/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌11
-https://videomy.yongaomy.com:8091/20200110/SNIS-311/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌1
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-210/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",奏美沙
-https://fc.maa1809.com/e/chifuosxst/chifuosxst.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",姐姐的诱惑
-https://videomy.yongaomy.com:8091/20191226/ezCT3OZC/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌9
-https://videomy.yongaomy.com:8091/20200110/SNIS-270/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",奏音花音
-https://videomy.yongaomy.com/20210907/Ekcv3tYC/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天海翼
-https://videomy.yongaomy.com:8091/20200111/IPZ-615/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",妹妹
-https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌8
-https://video1.rhsj520.com:8091/nyrm3/snis/1/ssni-358/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌7
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-331/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",天使萌6
-https://video1.rhsj520.com:8091/nyrm3/snis/3/ssni-380/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",帕科马马-希笑
-https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",姫川
-https://videomy.yongaomy.com:8091/20200102/IeVDOH6i/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",姬野栞
-https://fc.maa1809.com/g/rnhlghoqyo/rnhlghoqyo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",春埼芽衣1
-https://fc.maa1809.com/m/omsopjnoon/omsopjnoon.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",春埼芽衣2
-https://fc.maa1809.com/d/onqiitnimq/onqiitnimq.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",春埼芽衣3
-https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",晴佳
-https://fc.maa1809.com/b/inmkopifvj/inmkopifvj.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",松永纱奈1
-https://fc.maa1809.com/m/roqelpimmo/roqelpimmo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",松永纱奈4
-https://fc.maa1809.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",松永纱奈5
-https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",松永纱奈3
-https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",松永纱奈2
-https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",悲剧女主播
-https://videomy.yongaomy.com:8091/20191223/TOz9KzyG/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",情人节希岛
-https://videomy.yongaomy.com/xiezhen/LD-011/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",教育
-https://videomy.yongaomy.com:8091/20191226/OuJg40gL/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",永濑唯
-https://fc.maa1809.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",松永纱奈6
-https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",河原枫
-https://fc.maa1809.com/f/qcreaitlwz/qcreaitlwz.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",笠木一香
-https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",筱原友香1
-https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",筱原友香2
-https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",绪方艾丽娜
-https://videomy.yongaomy.com:8091/20200126/CHN-167/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",欲求反对3
-https://videomy.yongaomy.com:8091/20200103/ocnUX7Tt/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",欲求反对1
-https://videomy.yongaomy.com:8091/20200126/MEYD-564/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",欲求反对2
-https://videomy.yongaomy.com:8091/20200126/MEYD-248/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",疗愈大叔
-https://videomy.yongaomy.com:8091/20191227/jPKXM7bL/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",汗水少女
-https://videomy.yongaomy.com:8091/20191219/WJQJUXjc/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",相部屋
-https://videomy.yongaomy.com:8091/20200126/SSNI-674/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",职业OL
-https://videomy.yongaomy.com:8091/20191222/WGaysfrW/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",花音1
-https://fc.maa1809.com/e/pjnvmkrplq/pjnvmkrplq.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",音羽
-https://fc.maa1809.com/c/nokhxqnqpj/nokhxqnqpj.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",西川1
-https://videomy.yongaomy.com:8091/20200112/MIDE-124/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",银河迹美
-https://videomy.yongaomy.com:8091/20200126/MDTM-357/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",诱惑的姐姐2
-https://videomy.yongaomy.com:8091/20200111/MIDE-051/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",诱惑的姐姐1
-https://videomy.yongaomy.com:8091/20200112/MIDE-118/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",香皂小姐姐
-https://videomy.yongaomy.com:8091/20191223/R6Tq7Ldb/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="日本",风俗女郎都咲乃
-https://videomy.yongaomy.com:8091/20191223/jYalymoY/1500kb/hls/index.m3u8
 日本片商祝3周年,https://lsbbf2.com/20240426/Ivi0ZqOn/index.m3u8
 强奸乱伦欲求不満妻,https://lsbbf2.com/20240426/HpX2b4Hg/index.m3u8
 丝袜,https://lsbbf2.com/20240426/bYm7qJ8E/index.m3u8
@@ -937,7 +640,7 @@ https://videomy.yongaomy.com:8091/20191223/jYalymoY/1500kb/hls/index.m3u8
 日本片商性に目覚,https://lsbbf2.com/20240425/ywpM8fJn/index.m3u8
 一度,https://lsbbf2.com/20240425/rLAInryR/index.m3u8
 日本片商夜勤病院密会,https://lsbbf2.com/20240425/qk10z18f/index.m3u8
-#東雲みお,https://lsbbf2.com/20240425/2QfcCHHo/index.m3u8
+東雲みお,https://lsbbf2.com/20240425/2QfcCHHo/index.m3u8
 丝袜OL野子校生開脚拘束,https://lsbbf2.com/20240425/eZQRG9ud/index.m3u8
 日本片商先生誘惑学園,https://lsbbf2.com/20240425/UYut4NgS/index.m3u8
 日本片商性欲強,https://lsbbf2.com/20240425/t5x1w0Mo/index.m3u8
@@ -1166,7 +869,7 @@ E奶,https://lsbbf2.com/20240425/1Sm9shYr/index.m3u8
 性感人妻初,https://lsbbf2.com/20240423/NigAJZzD/index.m3u8
 童颜巨乳催淫,https://lsbbf2.com/20240423/cXWdCXbI/index.m3u8
 性感人妻大人気,https://lsbbf2.com/20240423/SQTQhaIZ/index.m3u8
-#水無瀬みく,https://lsbbf2.com/20240423/AmVYAvmp/index.m3u8
+水無瀬みく,https://lsbbf2.com/20240423/AmVYAvmp/index.m3u8
 性感人妻,https://lsbbf2.com/20240423/P6UYrzFl/index.m3u8
 日本有码部屋連れ込み隠し,https://lsbbf2.com/20240423/fAKUjN9m/index.m3u8
 日本有码初,https://lsbbf2.com/20240423/DrHeWw8D/index.m3u8
@@ -1514,6 +1217,8 @@ MAX！,https://lsbbf2.com/20240421/omTocCmG/index.m3u8
 穿性感内衣的骚女友逼里面内射,https://lsbbf2.com/20240420/c9fk3VgC/index.m3u8
 童颜巨乳同棲生活,https://lsbbf2.com/20240420/flIKdXiY/index.m3u8
 丝袜,https://lsbbf2.com/20240420/jST4YaLX/index.m3u8
+
+专题2,#genre#
 强奸乱伦『愛し合う夫婦が残したいメモリアルヌードフォト』と題された雑誌の企画と妻を騙し、絶倫チ○ポ男と,https://lsbbf2.com/20240420/1XxYCOaX/index.m3u8
 日本有码「もうイってるから許して！！」家事代行サービスで派遣されてきた 美人スタッフのエロ過ぎるデカ尻,https://lsbbf2.com/20240420/BQ31NAjH/index.m3u8
 日本有码『「マジ天使！？」骨折してオナニーできない僕のチ●コは我慢の限界！それを見かねた美人ナースは使,https://lsbbf2.com/20240420/yS1FrtjY/index.m3u8
@@ -1714,7 +1419,7 @@ JK制服美少女,https://lsbbf2.com/20240418/UVk3AYyM/index.m3u8
 网曝系列【DOM窒息】三位人妻大合集,https://lsbbf2.com/20240418/0VNVFTKg/index.m3u8
 网曝系列【爱丝袜vivian姐】西服黑丝近距离高跟丝袜扛腿暴力抽插,https://lsbbf2.com/20240418/HaSGx5o2/index.m3u8
 网曝系列【jbswg_diary】跟姐姐的淫乱生日派对下,https://lsbbf2.com/20240418/O6M8QQG5/index.m3u8
-#私拍,https://lsbbf2.com/20240418/bqMAshW1/index.m3u8
+私拍,https://lsbbf2.com/20240418/bqMAshW1/index.m3u8
 网曝系列【jbswg_diary】跟姐姐的淫乱生日派对上,https://lsbbf2.com/20240418/ApFLQsIO/index.m3u8
 丝袜OL3 顔出しMM号 陸上部限定 ザ·マジックミラー デカ尻女子大生が先っぽ1cm挿入のディ-cd1,https://lsbbf2.com/20240418/3VP7Clid/index.m3u8
 网曝系列【envyanne】超高清近距离玩逼逼给你看,https://lsbbf2.com/20240418/yHicXMAG/index.m3u8
@@ -1761,7 +1466,7 @@ JK制服美少女,https://lsbbf2.com/20240418/UVk3AYyM/index.m3u8
 日本有码情けないオヤジに恋するJ○の誘惑セックス,https://lsbbf2.com/20240418/rwHs3JHJ/index.m3u8
 日本有码胸元からタトゥーが覗く隣のシングルマザーと安アパートで何度もハメまくった3日間,https://lsbbf2.com/20240418/cXsMzJiT/index.m3u8
 丝袜OL面接に来た就活中の女子大生に●眠●入りのお茶を飲ませて昏●鬼●中出し 2,https://lsbbf2.com/20240417/6nWLUwPa/index.m3u8
-#07 人妻湯恋旅行 135·続,https://lsbbf2.com/20240417/X6me4ABQ/index.m3u8
+07 人妻湯恋旅行 135·続,https://lsbbf2.com/20240417/X6me4ABQ/index.m3u8
 丝袜OL拘束監禁 だるま女 快楽に堕とされ女が牝に変わる瞬間,https://lsbbf2.com/20240417/XYi0O48h/index.m3u8
 强奸乱伦緊縛調教妻 遺産目当てで通い始めた義父宅で見つけた秘密快楽に染まっていく身体と旦那には言えないマゾ性癖,https://lsbbf2.com/20240417/4ZjzSJ4M/index.m3u8
 强奸乱伦緊縛調教妻 義父の急逝で豪邸に住むことになった若妻庭師の男に狙われた豊満ボディ社長夫人,https://lsbbf2.com/20240417/XEg5ESOB/index.m3u8
@@ -1817,6 +1522,7 @@ JK制服美少女,https://lsbbf2.com/20240418/UVk3AYyM/index.m3u8
 日本有码EMSK-012 じゅるネチョ音とささやき淫語で耳からトロけるASMRメンズエステ,https://lsbbf2.com/20240417/I6STcMHl/index.m3u8
 丝袜OLEMBZ-285 ［主婦のエッチな生体験談］ 実録！本当にあった女のSEX事件簿 · リアルドキュメントシチュエ,https://lsbbf2.com/20240417/4hwAVfKh/index.m3u8
 日本有码EMSK-006 じゅるネチョ音とささやき淫語で耳からトロけるASMRメンズエステ,https://lsbbf2.com/20240417/t57AWrSf/index.m3u8
+专题3,#genre#
 网曝系列爆肏白衣少妇最后口爆在嘴里,https://lsbbf2.com/20240417/TBQJGmQN/index.m3u8
 网曝系列爆干反差婊酒水女销售,https://lsbbf2.com/20240417/4kmgyLLm/index.m3u8
 网曝系列爆操黑丝荡妇射在脸上好满足,https://lsbbf2.com/20240417/DoDZIhu7/index.m3u8
@@ -1961,16 +1667,16 @@ jk换短袜厨房展示,https://lsbbf2.com/20240416/DowKeZj4/index.m3u8
 强奸乱伦DVMM-047 色白デカ尻の家事代行おばさんに即ハメ！デカチンの虜になった人妻が翌日勝手に押しかけてきたので満,https://lsbbf2.com/20240416/6cfawNxL/index.m3u8
 日本有码0 ザーメン搾取！！FALENOガールズ超ノンストップ騎乗位BEST8時間【イキ狂い編】,https://lsbbf2.com/20240416/UojOWQkR/index.m3u8
 丝袜OL※胸糞NTR 幸せを約束した大好きな彼女がおっさんに寝取られて、壊されました最悪の鬱勃起映像,https://lsbbf2.com/20240416/gwWeR2Js/index.m3u8
-#橋村依里南 チェキ付き,https://lsbbf2.com/20240416/XdSWVjLW/index.m3u8
+橋村依里南 チェキ付き,https://lsbbf2.com/20240416/XdSWVjLW/index.m3u8
 日本有码2 あまりの快感にオマ〇コ決壊！！FALENO激ハメ潮吹き性交コレクション8時間！！【完全版】-cd1,https://lsbbf2.com/20240416/vejZ5Zkm/index.m3u8
-#水越しおり チェキ付き,https://lsbbf2.com/20240416/mn0S0OCy/index.m3u8
+水越しおり チェキ付き,https://lsbbf2.com/20240416/mn0S0OCy/index.m3u8
 日本有码2 あまりの快感にオマ〇コ決壊！！FALENO激ハメ潮吹き性交コレクション8時間！！【完全版】-cd2,https://lsbbf2.com/20240416/hsiLqw1F/index.m3u8
 童颜巨乳1 桃尻かなめFALENO出演作品24タイトル収録！ずっと巨乳まみれ55本番12時間ベスト！-cd3,https://lsbbf2.com/20240416/sEQ8YzkG/index.m3u8
 童颜巨乳1 桃尻かなめFALENO出演作品24タイトル収録！ずっと巨乳まみれ55本番12時間ベスト！-cd1,https://lsbbf2.com/20240416/vjkPK3fE/index.m3u8
 童颜巨乳1 桃尻かなめFALENO出演作品24タイトル収録！ずっと巨乳まみれ55本番12時間ベスト！-cd2,https://lsbbf2.com/20240416/8GvhH5Rd/index.m3u8
 丝袜素人大学生,https://lsbbf2.com/20240416/pm2FZKcF/index.m3u8
 日本有码禁断,https://lsbbf2.com/20240416/xPwJtBEh/index.m3u8
-#羽衣,https://lsbbf2.com/20240416/DE7F2bB3/index.m3u8
+羽衣,https://lsbbf2.com/20240416/DE7F2bB3/index.m3u8
 日本有码68,https://lsbbf2.com/20240416/DG9HSbEb/index.m3u8
 日本有码F,https://lsbbf2.com/20240416/2CQAUXMp/index.m3u8
 日本有码 素人大学生,https://lsbbf2.com/20240416/IZcWrNHP/index.m3u8
@@ -2350,7 +2056,7 @@ jk换短袜厨房展示,https://lsbbf2.com/20240416/DowKeZj4/index.m3u8
 日本有码［主婦のエッチな生体験談］ 実録！本当にあった女のSEX事件簿 · リアルドキュメントシチュエ的!,https://lsbbf2.com/20240410/CWwm5Dwy/index.m3u8
 日本有码［閲覧注意］輪姦レ●プ映像 ノーカット無編集·婦女強制犯罪記録 豊満女体爆姦！ クロロホルムと的!,https://lsbbf2.com/20240410/nF10hZgW/index.m3u8
 童颜巨乳［閲覧注意］輪姦レ●プ映像 ノーカット無編集·婦女強制犯罪記録 母乳汁大量搾取姦淫！ クロロホ的!,https://lsbbf2.com/20240410/gwzHTFQQ/index.m3u8
-#彼氏の周りにいたら嫌な女あざとすぎるHcup新入社員にまんまと落ちた教育係の俺的!,https://lsbbf2.com/20240410/QQgJPsPu/index.m3u8
+彼氏の周りにいたら嫌な女あざとすぎるHcup新入社員にまんまと落ちた教育係の俺的!,https://lsbbf2.com/20240410/QQgJPsPu/index.m3u8
 日本有码［閲覧注意］輪姦レ●プ映像 ノーカット無編集「婦女強制犯罪記録」 強制妊娠！ クロロホルムとス的!,https://lsbbf2.com/20240410/z5zn90J4/index.m3u8
 日本有码［閲覧注意］輪姦レ●プ映像 ノーカット無編集·婦女強制犯罪記録 クロロホルムとスタンガンで昏●的!,https://lsbbf2.com/20240410/0vo0astb/index.m3u8
 日本有码［閲覧注意］輪姦レ●プ映像 ノーカット無編集「婦女強制犯罪記録」 狂瀾怒涛 クロロホルムとスタ的!,https://lsbbf2.com/20240410/dtIDchUP/index.m3u8
@@ -2407,14 +2113,15 @@ jk换短袜厨房展示,https://lsbbf2.com/20240416/DowKeZj4/index.m3u8
 性感人妻9 完全アヘ堕ち 「ごめんなさい…イキ過ぎて…」敏感体質の子の感度を増幅させたら制御不能のイキ的!,https://lsbbf2.com/20240409/iRpvS5WQ/index.m3u8
 性感人妻9 グラドル時代に私を引退に追い込んだストーカー男が弟の担任教師に…セックスを拒否したら弟は退学的!,https://lsbbf2.com/20240409/cSuDN1mE/index.m3u8
 性感人妻9 もっとキミを好きになった…デートして触れあう手、重ねた唇、ココロとカラダで感じた恋焦がれセックス的!,https://lsbbf2.com/20240409/vc7fRhQ7/index.m3u8
-#若林美穂的!,https://lsbbf2.com/20240409/Yzkp3DVF/index.m3u8
+若林美穂的!,https://lsbbf2.com/20240409/Yzkp3DVF/index.m3u8
 丝袜OL9 新人週刊誌のグラビアで話題の美女が決意のAVデビュー茉城まみ的!,https://lsbbf2.com/20240409/R4OnAiTC/index.m3u8
 丝袜OL9 初恋スイートルーム初めての彼女と初お泊りデートで朝まで濃密セックス的!,https://lsbbf2.com/20240409/uALhgFA0/index.m3u8
-#広瀬あすか的!,https://lsbbf2.com/20240409/eyLpDC5D/index.m3u8
+広瀬あすか的!,https://lsbbf2.com/20240409/eyLpDC5D/index.m3u8
 童颜巨乳9 放課後に、ホテルで密会教え子のたわわに実った巨乳に理性を失い···顔をうずめて無我夢中で揉的!,https://lsbbf2.com/20240409/buQZ0xf2/index.m3u8
 性感人妻9 旦那の出張中に私は朝から晩まで義父に唾液たっぷりねっとり全身を隅々まで舐められて…ベロ舐め舌的!,https://lsbbf2.com/20240409/KMaHI8U1/index.m3u8
+专题4,#genre#
 日本片商9 隣の異常性欲おじさんにゴミ部屋軟禁され絶え間なく強制絶頂漬け的!,https://lsbbf2.com/20240409/xjynXH8e/index.m3u8
-#阿部有紀 チェキ付き的!,https://lsbbf2.com/20240409/srYK24Pn/index.m3u8
+阿部有紀 チェキ付き的!,https://lsbbf2.com/20240409/srYK24Pn/index.m3u8
 日本片商9 新人 はにかむ、そして交わる 20歳 AVdebut的!,https://lsbbf2.com/20240409/tot7OFNv/index.m3u8
 日本片商GDRD-003 Red Dragon,https://lsbbf2.com/20240409/xA9zJgok/index.m3u8
 日本片商GDRD-002 Red Dragon,https://lsbbf2.com/20240409/niM1na8f/index.m3u8
@@ -2780,38 +2487,39 @@ SM调教公狗的!,https://lsbbf2.com/20240407/spPgTLXZ/index.m3u8
 丝袜OL【黒歴史！！！】～想い出～修学旅行での女子校生を深夜に集団夜●いした映像流出！！！的!,https://lsbbf2.com/20240406/YsAR1qTJ/index.m3u8
 日本有码【G1】チャージマン マーメイド＆フェニックス～絶望への凱旋、敗辱の肉林～的!,https://lsbbf2.com/20240406/bR1YcgbX/index.m3u8
 丝袜OL【G1】美少女戦士セーラーアクアス＆セーラーフレア セーラー物語 -光から闇 闇から光へ的!,https://lsbbf2.com/20240406/VWQx3j9c/index.m3u8
-#季妍希的!,https://lsbbf2.com/20240406/erMdRryT/index.m3u8
+专题5,#genre#
+季妍希的!,https://lsbbf2.com/20240406/erMdRryT/index.m3u8
 丝袜OL【G1】ネオ女宇宙特捜アニカ 絶体絶命！！的!,https://lsbbf2.com/20240406/dilZUHOj/index.m3u8
-#梁芸菲的!,https://lsbbf2.com/20240406/SqtICsSl/index.m3u8
-#季妍希的!,https://lsbbf2.com/20240406/LwxxSHhb/index.m3u8
+梁芸菲的!,https://lsbbf2.com/20240406/SqtICsSl/index.m3u8
+季妍希的!,https://lsbbf2.com/20240406/LwxxSHhb/index.m3u8
 麻豆传媒MDC006004 人妻约会的!,https://lsbbf2.com/20240406/5J32Vfx6/index.m3u8
-#林嫣的!,https://lsbbf2.com/20240406/CLSejYr5/index.m3u8
+林嫣的!,https://lsbbf2.com/20240406/CLSejYr5/index.m3u8
 麻豆传媒MDHT-008.周宁.奇淫旅社.淫娃室友的骑乘位 - 麻豆视频免费观看网站 2022--6 9_50的!,https://lsbbf2.com/20240406/QiiUrd2O/index.m3u8
-#苡若_的!,https://lsbbf2.com/20240406/l8Raujuz/index.m3u8
-#周宁的!,https://lsbbf2.com/20240406/9nysLH2K/index.m3u8
-#羽芮的!,https://lsbbf2.com/20240406/MtKNB1yW/index.m3u8
+苡若_的!,https://lsbbf2.com/20240406/l8Raujuz/index.m3u8
+周宁的!,https://lsbbf2.com/20240406/9nysLH2K/index.m3u8
+羽芮的!,https://lsbbf2.com/20240406/MtKNB1yW/index.m3u8
 麻豆传媒MDC006700  就想做你的情人的!,https://lsbbf2.com/20240406/Xy71xrdm/index.m3u8
-#艾秋的!,https://lsbbf2.com/20240406/g3wBJGFh/index.m3u8
-#沈芯语的!,https://lsbbf2.com/20240406/P0grMvUC/index.m3u8
-#蜜苏的!,https://lsbbf2.com/20240406/NSnfowCs/index.m3u8
-#季妍希的!,https://lsbbf2.com/20240406/T5KKegcf/index.m3u8
-#吴茜茜的!,https://lsbbf2.com/20240406/MZg7lrWV/index.m3u8
-#项子宁的!,https://lsbbf2.com/20240406/gbPPOgAx/index.m3u8
+艾秋的!,https://lsbbf2.com/20240406/g3wBJGFh/index.m3u8
+沈芯语的!,https://lsbbf2.com/20240406/P0grMvUC/index.m3u8
+蜜苏的!,https://lsbbf2.com/20240406/NSnfowCs/index.m3u8
+季妍希的!,https://lsbbf2.com/20240406/T5KKegcf/index.m3u8
+吴茜茜的!,https://lsbbf2.com/20240406/MZg7lrWV/index.m3u8
+项子宁的!,https://lsbbf2.com/20240406/gbPPOgAx/index.m3u8
 网曝系列KTV疯狂之夜的!,https://lsbbf2.com/20240406/ml6nBAUk/index.m3u8
-#Jessie Pony、Bernard Sanchez的!,https://lsbbf2.com/20240406/CCHLvn7Q/index.m3u8
-#岚湘庭的!,https://lsbbf2.com/20240406/3yMFYjlN/index.m3u8
-#苏清歌的!,https://lsbbf2.com/20240406/a6CuydG7/index.m3u8
+Jessie Pony、Bernard Sanchez的!,https://lsbbf2.com/20240406/CCHLvn7Q/index.m3u8
+岚湘庭的!,https://lsbbf2.com/20240406/3yMFYjlN/index.m3u8
+苏清歌的!,https://lsbbf2.com/20240406/a6CuydG7/index.m3u8
 麻豆传媒MD-026.宋南伊.放进去一下下就好.上门偷情俏丽人妻 - 麻豆视频免费观看网站 2022--8 2_42的!,https://lsbbf2.com/20240406/yYHrqEeH/index.m3u8
 LY003  赌球输女友的!,https://lsbbf2.com/20240406/S9D23qgC/index.m3u8
-#张芸熙的!,https://lsbbf2.com/20240406/QOKKQE2r/index.m3u8
+张芸熙的!,https://lsbbf2.com/20240406/QOKKQE2r/index.m3u8
 网曝系列LTV0027 慾不可纵的!,https://lsbbf2.com/20240406/Nrsemu6x/index.m3u8
-#Charlotte Sins的!,https://lsbbf2.com/20240406/KgpUIaij/index.m3u8
-#Natalia Nix、Sophia Leone、Sloane的!,https://lsbbf2.com/20240406/LRWalFgP/index.m3u8
+Charlotte Sins的!,https://lsbbf2.com/20240406/KgpUIaij/index.m3u8
+Natalia Nix、Sophia Leone、Sloane的!,https://lsbbf2.com/20240406/LRWalFgP/index.m3u8
 LAA0077 职场性交易的!,https://lsbbf2.com/20240406/MqpoXJVw/index.m3u8
-#Anna Claire Clouds的!,https://lsbbf2.com/20240406/lBOnEkeY/index.m3u8
-#季妍希的!,https://lsbbf2.com/20240406/ZOUopWMg/index.m3u8
+Anna Claire Clouds的!,https://lsbbf2.com/20240406/lBOnEkeY/index.m3u8
+季妍希的!,https://lsbbf2.com/20240406/ZOUopWMg/index.m3u8
 LOL二次元 白丝足交的!,https://lsbbf2.com/20240406/cAD0rCb7/index.m3u8
-#Kayley Gunner、Jewelz Blu的!,https://lsbbf2.com/20240406/YS1bykqD/index.m3u8
+Kayley Gunner、Jewelz Blu的!,https://lsbbf2.com/20240406/YS1bykqD/index.m3u8
 KTV里的公主的!,https://lsbbf2.com/20240406/cBobrFbo/index.m3u8
 KTV勾搭漂亮小姐姐，温柔风骚小荡妇的!,https://lsbbf2.com/20240406/ZAoqV5HD/index.m3u8
 Leah梓未 – 蓝色妖姬的!,https://lsbbf2.com/20240406/MjTZxhY7/index.m3u8
@@ -2887,7 +2595,7 @@ Leah梓未 – 蓝色妖姬的!,https://lsbbf2.com/20240406/MjTZxhY7/index.m3u8
 日本有码超絶テクニックに我慢できず口内発射 昼下がりの奥様 五十路熟女のフェラが凄い！14的!,https://lsbbf2.com/20240405/XCTEIzZn/index.m3u8
 日本有码潮吹きジョバジョバ奥様in巣鴨 美沙さん50歳的!,https://lsbbf2.com/20240405/uklvb7jA/index.m3u8
 日本有码潮吹きジョバジョバ奥様 in 世田谷 清香さん50歳的!,https://lsbbf2.com/20240405/OdXPA3Jc/index.m3u8
-#瑶瑶的!,https://lsbbf2.com/20240405/jfhQBQvS/index.m3u8
+瑶瑶的!,https://lsbbf2.com/20240405/jfhQBQvS/index.m3u8
 麻豆传媒KD04 妻子闺蜜到访勾引的!,https://lsbbf2.com/20240405/WJ17jKE4/index.m3u8
 麻豆传媒KD0005 苗条保姆被强姦的!,https://lsbbf2.com/20240405/GwdT50gk/index.m3u8
 麻豆传媒KD02 十一假期旅游性事的!,https://lsbbf2.com/20240405/14x2HeCI/index.m3u8
@@ -2895,35 +2603,35 @@ JK女被下媚药玩弄的!,https://lsbbf2.com/20240405/mMQJZEOM/index.m3u8
 麻豆传媒KD-06.粉红女仆诱惑.邻家小妹索爱 - 麻豆视频免费观看网站的!,https://lsbbf2.com/20240405/aIUF2kbZ/index.m3u8
 麻豆传媒KD-03.女子借钱以身抵债 - 麻豆视频免费观看网站 2022--9 8_39的!,https://lsbbf2.com/20240405/mpibjknN/index.m3u8
 麻豆传媒JDYP04  双向补充蛋白质的!,https://lsbbf2.com/20240405/oLLqvpJA/index.m3u8
-#Pony的!,https://lsbbf2.com/20240405/pNS4V6dN/index.m3u8
+Pony的!,https://lsbbf2.com/20240405/pNS4V6dN/index.m3u8
 麻豆传媒KD009  寂寞人妻找技师按摩的!,https://lsbbf2.com/20240405/Ki0a1F5j/index.m3u8
-#夕慈的!,https://lsbbf2.com/20240405/OxJTau5j/index.m3u8
-#艾贝的!,https://lsbbf2.com/20240405/nC3f78xj/index.m3u8
+夕慈的!,https://lsbbf2.com/20240405/OxJTau5j/index.m3u8
+艾贝的!,https://lsbbf2.com/20240405/nC3f78xj/index.m3u8
 IA004 很硬的日文家教课的!,https://lsbbf2.com/20240405/YykZQGSe/index.m3u8
 Echiechimykanojo 内射洛丽塔女友的!,https://lsbbf2.com/20240405/v37qW68h/index.m3u8
-#高瑶梨香的!,https://lsbbf2.com/20240405/ORnDx03o/index.m3u8
+高瑶梨香的!,https://lsbbf2.com/20240405/ORnDx03o/index.m3u8
 JK制服的女学生蒙眼玩性爱游戏 穿黑色连裤袜的!,https://lsbbf2.com/20240405/azQr6rVs/index.m3u8
-#小林杏的!,https://lsbbf2.com/20240405/pJRuOniu/index.m3u8
+小林杏的!,https://lsbbf2.com/20240405/pJRuOniu/index.m3u8
 HJ093 为了和初恋女友做爱的!,https://lsbbf2.com/20240405/suMBvJS7/index.m3u8
-#美樱的!,https://lsbbf2.com/20240405/bWFcBx8N/index.m3u8
+美樱的!,https://lsbbf2.com/20240405/bWFcBx8N/index.m3u8
 麻豆传媒JDMZ003 男同学假扮老师PLAY女同学的!,https://lsbbf2.com/20240405/MCfVaEO2/index.m3u8
 B站舞蹈区各类舞蹈UP主沦陷视频的!,https://lsbbf2.com/20240405/FEFW0jc5/index.m3u8
 Echiechimykanojo  女仆的!,https://lsbbf2.com/20240405/Pk8PUnsD/index.m3u8
 GDCM035 伪装者代号9女特工的!,https://lsbbf2.com/20240405/lGAj2TUx/index.m3u8
 Echiechimykanojo 网袜女孩的!,https://lsbbf2.com/20240405/IGEtJ5Oz/index.m3u8
-#玥可岚的!,https://lsbbf2.com/20240405/HkTosWly/index.m3u8
-#唐伯虎的!,https://lsbbf2.com/20240405/CR8o4gn5/index.m3u8
-#静静 来台北探访 就顺便来一炮的!,https://lsbbf2.com/20240405/r5QcHcYU/index.m3u8
+玥可岚的!,https://lsbbf2.com/20240405/HkTosWly/index.m3u8
+唐伯虎的!,https://lsbbf2.com/20240405/CR8o4gn5/index.m3u8
+静静 来台北探访 就顺便来一炮的!,https://lsbbf2.com/20240405/r5QcHcYU/index.m3u8
 EDMosaic 小慈 穴穴已变成成那根的形状的!,https://lsbbf2.com/20240405/smybbJjv/index.m3u8
 JK糯米的日常性爱生活的!,https://lsbbf2.com/20240405/NZPAxqiw/index.m3u8
-#莉娜的!,https://lsbbf2.com/20240405/0ogJcUyC/index.m3u8
+莉娜的!,https://lsbbf2.com/20240405/0ogJcUyC/index.m3u8
 dePgukvtCfzLkvr9NpIYu6jWShg0oWJibBHohVJCOI6MsDuoWleTQZVlnBjBGH的!,https://lsbbf2.com/20240405/hoIT8TLf/index.m3u8
 b站舞蹈区pmv剪辑同衣服异类撞衫 台上女神 胯下母狗 制服淫学妹篇的!,https://lsbbf2.com/20240405/DETyZ6Cs/index.m3u8
-#cola酱的!,https://lsbbf2.com/20240405/WZlHKTXw/index.m3u8
+cola酱的!,https://lsbbf2.com/20240405/WZlHKTXw/index.m3u8
 Echiechimykanojo 魅魔女仆的!,https://lsbbf2.com/20240405/6qgjE4ii/index.m3u8
-#三月樱花的!,https://lsbbf2.com/20240405/8cacpUV3/index.m3u8
+三月樱花的!,https://lsbbf2.com/20240405/8cacpUV3/index.m3u8
 Echiechimykanojo 极品乐队女孩的!,https://lsbbf2.com/20240405/sdet78Ny/index.m3u8
-#ROXIE的!,https://lsbbf2.com/20240405/yYRDb5H0/index.m3u8
+ROXIE的!,https://lsbbf2.com/20240405/yYRDb5H0/index.m3u8
 DB00 现役女大生羞涩的拍摄出道的!,https://lsbbf2.com/20240405/iveZnor4/index.m3u8
 DB0 搭讪黑丝小只马初次见面变炮友的!,https://lsbbf2.com/20240405/DncnTqQU/index.m3u8
 BLX-0022.林嫣.运动女孩骑欲记.男友赛前的活塞暖身 - 麻豆视频免费观看网站_的!,https://lsbbf2.com/20240405/z9QPUSlZ/index.m3u8
@@ -3004,7 +2712,7 @@ BLX-0022.林嫣.运动女孩骑欲记.男友赛前的活塞暖身 - 麻豆视频
 9岁嫩妹 直播大秀的!,https://lsbbf2.com/20240404/izX0qOzv/index.m3u8
 8 岁的大二学妹毛还没长齐呢的!,https://lsbbf2.com/20240404/TgdUHW3v/index.m3u8
 8岁欲女，小情侣居家椅子上研究小穴的!,https://lsbbf2.com/20240404/bRc2Ndhx/index.m3u8
-#花语柔的!,https://lsbbf2.com/20240404/9dyGx605/index.m3u8
+花语柔的!,https://lsbbf2.com/20240404/9dyGx605/index.m3u8
 【极品嫩妹】软软身材漂亮高三学妹和两个学长玩3P激战 纤弱小身体被两个大屌无情摧残都快玩坏了 高清源码无水印 AVC 中质量和大小 截取视频的!,https://lsbbf2.com/20240404/qKTSBHVC/index.m3u8
 24小时性爱部屋的!,https://lsbbf2.com/20240404/xFYrTAUe/index.m3u8
 9大神酒店约炮身材非常好的的离异美少妇的!,https://lsbbf2.com/20240404/VQ0wsl9d/index.m3u8
@@ -3016,7 +2724,7 @@ BLX-0022.林嫣.运动女孩骑欲记.男友赛前的活塞暖身 - 麻豆视频
 00后的淫乱居家群P的!,https://lsbbf2.com/20240404/ISCfAQDr/index.m3u8
 202最新啪啪口爱私拍流出的!,https://lsbbf2.com/20240404/oJ0YmEoW/index.m3u8
 A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index.m3u8
-#小鱼的!,https://lsbbf2.com/20240404/rrJ6stdI/index.m3u8
+小鱼的!,https://lsbbf2.com/20240404/rrJ6stdI/index.m3u8
 00后小姐姐勾搭路人啪啪，带回闺房一通撩骚的!,https://lsbbf2.com/20240404/IEq8W27W/index.m3u8
 8岁粉穴嫩妹的!,https://lsbbf2.com/20240404/8bEwGbcV/index.m3u8
 00后 直播自慰养活自己的!,https://lsbbf2.com/20240404/HZZYI8wW/index.m3u8
@@ -3027,7 +2735,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 原版性感荷官上门陪玩情趣挑逗干到求饶的!,https://lsbbf2.com/20240404/3SoofU9O/index.m3u8
 02年清纯美女学生装不雅视频流出 口爆吞精完整版的!,https://lsbbf2.com/20240404/cAqIruGk/index.m3u8
 抓紧时间和老公来一炮的!,https://lsbbf2.com/20240404/3LIRl3Nd/index.m3u8
-#写真. -的!,https://lsbbf2.com/20240404/tLAxuSAy/index.m3u8
+写真. -的!,https://lsbbf2.com/20240404/tLAxuSAy/index.m3u8
 00后班花遭猥琐男PUA调教玩弄，身材长相顶级！080P高清的!,https://lsbbf2.com/20240404/FNC9dI9x/index.m3u8
 与情欲女教师的禁断之恋_孟若羽的!,https://lsbbf2.com/20240404/WVeTM2qF/index.m3u8
 【柚子猫】新作-与油性尼龙的粗暴性行为的!,https://lsbbf2.com/20240404/gLBCgd9p/index.m3u8
@@ -3044,7 +2752,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 淫荡少妇自慰流出超级多水的!,https://lsbbf2.com/20240404/xs0IiI2h/index.m3u8
 强奸乱伦欲しがり妻 恥ずかしいけど止められない性欲…奥さん、最高です！特別保存版8時間28名的!,https://lsbbf2.com/20240403/EaVOlMLB/index.m3u8
 日本片商友達の前でガチエッチ！！ 親友の目の前で悶絶＆絶頂イキまくり！！20名的!,https://lsbbf2.com/20240403/DzRkCrpr/index.m3u8
-#市井結夏的!,https://lsbbf2.com/20240403/UnLGUDAF/index.m3u8
+市井結夏的!,https://lsbbf2.com/20240403/UnLGUDAF/index.m3u8
 丝袜OL真面目な黒パンストOLの本性はオオカミ痴女！逆お持ち帰りされてデカ尻騎乗位で一晩中搾り抜かれた夜的!,https://lsbbf2.com/20240403/ZW01M5RE/index.m3u8
 童颜巨乳子作りに乗り気じゃない夫のせいで欲求不満の巨乳妻は誰にでも中出しさせる町内会専用肉便器巨乳妻的!,https://lsbbf2.com/20240403/Fyo00q50/index.m3u8
 童颜巨乳執事と巨乳令嬢～無垢な美少女を監禁飼育し、一日に一行為ずつ接吻·愛撫·挿入…と段階的に調教する禁的!,https://lsbbf2.com/20240403/hxETVzg4/index.m3u8
@@ -3199,7 +2907,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 日本有码禁断介護-cd,https://lsbbf2.com/20240402/0sRfG8Y4/index.m3u8
 日本有码巨乳マゾセフレ 杏奈 21歳的!,https://lsbbf2.com/20240402/Cx1KxIeI/index.m3u8
 日本有码豊島区大塚のお店で見つけた天然デカ尻酔いどれビッチに生挿入！生中出し！酔っ払ったノリでハメまくり的!,https://lsbbf2.com/20240402/L8zQ0ZjK/index.m3u8
-#西村ニーナ的!,https://lsbbf2.com/20240402/UwGeSaVD/index.m3u8
+西村ニーナ的!,https://lsbbf2.com/20240402/UwGeSaVD/index.m3u8
 【陈陈呢】下集 干净温婉漂亮~欧美女人般的大肥臀的!,https://lsbbf2.com/20240402/OE5xt3I2/index.m3u8
 【陈陈呢】中集 干净温婉漂亮~欧美女人般的大肥臀的!,https://lsbbf2.com/20240402/hvaE8kFW/index.m3u8
 日本有码串刺し拷問 犯罪的ミクロ少女的!,https://lsbbf2.com/20240402/GaQXwfVL/index.m3u8
@@ -3304,7 +3012,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 强奸乱伦優しすぎる素人奥さんが童貞君と生中出しで筆おろしデート ペットショップで働く人妻 めぐさん（31歳）的!,https://lsbbf2.com/20240401/efh0bzkx/index.m3u8
 童颜巨乳幼な顔デカ乳輪爆乳彼女と変態露出デート的!,https://lsbbf2.com/20240401/jZ7yFQ1Q/index.m3u8
 丝袜OL最強しろ～と列伝 ＃Lカップの痴女 ＃OL ＃大手広告代理店 ＃結愛的!,https://lsbbf2.com/20240401/D4oFRzwO/index.m3u8
-#星那美月的!,https://lsbbf2.com/20240401/8ihphL1Y/index.m3u8
+星那美月的!,https://lsbbf2.com/20240401/8ihphL1Y/index.m3u8
 网曝系列首次挑战伪外流电动八爪椅无套实战的!,https://lsbbf2.com/20240401/5iuJgKdK/index.m3u8
 网曝系列是个男人 都会喜欢这种妖艳的贱货的!,https://lsbbf2.com/20240401/Icd0GXBv/index.m3u8
 网曝系列首次69拍摄犯规级舔穴的!,https://lsbbf2.com/20240401/yI3oS3eT/index.m3u8
@@ -3398,10 +3106,10 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 日本有码ぅあぁぁ…出ちゃう！暴発寸前の鳥肌モンの恍惚感のまま65分間射精我慢＆勃起キープを強要される寸止的!,https://lsbbf2.com/20240331/mhQFck1e/index.m3u8
 日本有码ぅあぁぁ…出ちゃう！暴発寸前の鳥肌モンの恍惚感のまま60分間射精我慢＆勃起キープを強要される寸止的!,https://lsbbf2.com/20240331/yXR35DVe/index.m3u8
 日本有码いけないおもらしごっこ的!,https://lsbbf2.com/20240331/R3LXLWTH/index.m3u8
-#涼花くるみ的!,https://lsbbf2.com/20240331/bme8Fe87/index.m3u8
+涼花くるみ的!,https://lsbbf2.com/20240331/bme8Fe87/index.m3u8
 丝袜OLSNSでもっとバズりたい！過剰な映えを気にしすぎた勢いでタトゥー彫りまくりチ○ポハメまくり裏垢女的!,https://lsbbf2.com/20240331/m4B6rmhU/index.m3u8
 日本有码いなか者馬鹿ギャル孕ませ子宮中出し的!,https://lsbbf2.com/20240331/cEEz2Owv/index.m3u8
-#有岡みう的!,https://lsbbf2.com/20240331/gPY1jRXn/index.m3u8
+有岡みう的!,https://lsbbf2.com/20240331/gPY1jRXn/index.m3u8
 日本有码アナルバニー的!,https://lsbbf2.com/20240331/JSGF01Ls/index.m3u8
 少女享受大鸡吧的色情按摩的!,https://lsbbf2.com/20240331/4CVpauXW/index.m3u8
 深夜电车的性爱抚慰的!,https://lsbbf2.com/20240331/qOFIr2Hj/index.m3u8
@@ -3538,7 +3246,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 日本有码イっても終わらない追撃ハードピストンでカラダが弓なりぎゅーん！エビ反り痙攣絶頂SEXベスト4時間的!,https://lsbbf2.com/20240330/Lgnww7SL/index.m3u8
 强奸乱伦ごっくん大好きな人妻が絶倫M男クンの家に一泊して7発精飲「もっと飲みた…的!,https://lsbbf2.com/20240330/zAvIzipk/index.m3u8
 童颜巨乳チンポが好きすぎる息子の彼女が家の中でこっそり巨乳で誘惑してきて四六時中しゃぶってくる的!,https://lsbbf2.com/20240330/gZ76XvaD/index.m3u8
-#宮城ゆら的!,https://lsbbf2.com/20240330/gIgjVoJp/index.m3u8
+宮城ゆら的!,https://lsbbf2.com/20240330/gIgjVoJp/index.m3u8
 丝袜OLアナウンサー志望の名門校女子大生限定！「女子アナはどんな状況下でも原稿を読めるはず！？」 固定的!,https://lsbbf2.com/20240330/vfDbGO7V/index.m3u8
 日本有码コスフェラ！！的!,https://lsbbf2.com/20240330/mx145grN/index.m3u8
 日本有码エロくて下品なお隣のお姉さんがシコい体で誘惑してくる的!,https://lsbbf2.com/20240330/IojsDgum/index.m3u8
@@ -3546,11 +3254,11 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 童颜巨乳【完熟巨乳熟女】 崩れた肉垂れオッパイ マン汁だらだら発情ムチエロ五十路母さん 20人 4時間的!,https://lsbbf2.com/20240330/lxB5h5jP/index.m3u8
 日本有码おしっこ出ちゃうぅーっ！！ 激イキ小便噴射！絶叫お漏らしアクメBEST vol.3的!,https://lsbbf2.com/20240330/S4XXaVIc/index.m3u8
 日本有码M寄りなカリブト変態彼氏の要望に何でもヘラヘラ応えちゃうカノジョ的!,https://lsbbf2.com/20240330/R632GPoH/index.m3u8
-#姫崎あむ的!,https://lsbbf2.com/20240330/BUGjRJ8H/index.m3u8
+姫崎あむ的!,https://lsbbf2.com/20240330/BUGjRJ8H/index.m3u8
 丝袜OLHow to裏オプ！押しに弱いメイドリフレ女子に神ヌキ対応させちゃう口説きテクを騙し撮り！ さ的!,https://lsbbf2.com/20240330/eUPlZvYd/index.m3u8
 强奸乱伦90cm以上限定デカ尻人妻スポコス検証ドッキリ企画！ 極小ウェアを着せられ恥じらうトレーニング的!,https://lsbbf2.com/20240330/PPljkTfI/index.m3u8
 日本有码Hは生派…イチャラブ生活 れなたん的!,https://lsbbf2.com/20240330/yPUjIa2b/index.m3u8
-#姫崎あむ的!,https://lsbbf2.com/20240330/xJ62ICTO/index.m3u8
+姫崎あむ的!,https://lsbbf2.com/20240330/xJ62ICTO/index.m3u8
 日本有码「ヤバっ、入れてないのに擦れて気持ちイイ…」初めての素股アクメ体験！性器同士の摩擦で焦らされ感的!,https://lsbbf2.com/20240330/pWC1ARLw/index.m3u8
 日本有码【みわ＆ゆずな】低身長JD2人組大人しそうに見えるのに…ドエロなギャップが最高ですww初3P的!,https://lsbbf2.com/20240330/MAOZ90xh/index.m3u8
 日本有码「ゼッタイ感じちゃダメッ！」 固定バイブ生アクメ電話チャレンジ 夫にバレないようイキ我慢！イタ的!,https://lsbbf2.com/20240330/NMdcLrST/index.m3u8
@@ -3592,9 +3300,9 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 日本有码受験生拘束スーパースローピストン的!,https://lsbbf2.com/20240328/nvWXSSU8/index.m3u8
 日本有码舐め犯す義父の舌技がドストライクすぎてママに内緒で家庭内不倫中出し性交的!,https://lsbbf2.com/20240328/t2gd5q5C/index.m3u8
 日本有码舐めプかましたパパ活メスガキを拘束生刺し中出しおしおき性交教育2的!,https://lsbbf2.com/20240328/hpazct9c/index.m3u8
-#とてもいやらしい僕のおば的!,https://lsbbf2.com/20240328/AewTWXaH/index.m3u8
+とてもいやらしい僕のおば的!,https://lsbbf2.com/20240328/AewTWXaH/index.m3u8
 日本有码舐めプかましたパパ活メスガキを拘束生刺し中出しおしおき性交教育的!,https://lsbbf2.com/20240328/FQO6uVP6/index.m3u8
-#45才の女弟子的!,https://lsbbf2.com/20240328/I1WrCooz/index.m3u8
+45才の女弟子的!,https://lsbbf2.com/20240328/I1WrCooz/index.m3u8
 日本有码熟女びっしょり！ おばさんとセックス3的!,https://lsbbf2.com/20240328/wMJwMEWz/index.m3u8
 去乡下住一晚，却沒想到撞鬼了！！！,https://lsbbf2.com/20240329/5MjdYKYt/index.m3u8
 全程穿刺最后射在脸上,https://lsbbf2.com/20240329/fkMZTOCo/index.m3u8
@@ -3607,7 +3315,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 请侵犯我的爱妻,https://lsbbf2.com/20240329/PN4uu7at/index.m3u8
 强奸乱伦衝撃の野外レ●プ事件！！ 田舎村に潜む強制魔の集落泥まみれで滅茶苦茶に犯された若妻たち 20的!,https://lsbbf2.com/20240329/hCYCzqx0/index.m3u8
 丝袜OL地下アイドルを夢見る少女たちへ枕営業オーディション！ 自己PR中にまたがり顔面騎乗クンニでオマ的!,https://lsbbf2.com/20240329/ksw1D6Z7/index.m3u8
-#石森みずほ的!,https://lsbbf2.com/20240329/3btaPHRF/index.m3u8
+石森みずほ的!,https://lsbbf2.com/20240329/3btaPHRF/index.m3u8
 全裸迎接前來家裡的客人們！,https://lsbbf2.com/20240329/oHsAD8BT/index.m3u8
 肉欲美术老师的特殊教学,https://lsbbf2.com/20240329/VvGx01ph/index.m3u8
 乳液玩弄巨乳主播，美乳自慰丝袜诱惑,https://lsbbf2.com/20240329/xXI67qXB/index.m3u8
@@ -3648,7 +3356,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 网曝系列人妻的性爱外卖,https://lsbbf2.com/20240329/NfTLhnRk/index.m3u8
 日本有码ロスでナンパした性格良し子のバリスタがお金に困っていたので援助した結果的!,https://lsbbf2.com/20240329/MdzUyi37/index.m3u8
 网曝系列人妻的性爱复仇,https://lsbbf2.com/20240329/NxmKG6kM/index.m3u8
-#松山まなか的!,https://lsbbf2.com/20240329/yJaO1E1x/index.m3u8
+松山まなか的!,https://lsbbf2.com/20240329/yJaO1E1x/index.m3u8
 缺失的母爱又收获了一个母亲,https://lsbbf2.com/20240329/XH2xnjjK/index.m3u8
 让娇蛮堕姬喝下毒药 用肉棒狠狠教训她,https://lsbbf2.com/20240329/OUvCNYoD/index.m3u8
 让小哥先舔逼，等他硬的受不了再让他进来,https://lsbbf2.com/20240329/EHxaFjM5/index.m3u8
@@ -3670,7 +3378,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 日本有码瞳が語る背徳の情事 罪悪感で濡れる嫁と嫉妬で萌える旦那的!,https://lsbbf2.com/20240329/2Ojd1OVs/index.m3u8
 强奸乱伦素人妻が一般大学生の自宅にコンドーム1つ渡され一泊 一度のゴム姦では満足できず宿泊中2度もガチ的!,https://lsbbf2.com/20240329/BeOULLN3/index.m3u8
 日本有码生活に困り自宅でメンズエステを始めた近所のシングルマザーと中出しSEX …的!,https://lsbbf2.com/20240329/Fn9gdllM/index.m3u8
-#石森みずほ的!,https://lsbbf2.com/20240329/hQ9bd3Pr/index.m3u8
+石森みずほ的!,https://lsbbf2.com/20240329/hQ9bd3Pr/index.m3u8
 日本有码神肌 現役保育士さんとイチャラブ体験的!,https://lsbbf2.com/20240329/XC7GUKwC/index.m3u8
 日本有码肉欲パリピギャル淫獣ビッチ生SEX的!,https://lsbbf2.com/20240329/Qq4U0js1/index.m3u8
 丝袜OL僕たちの露出魔先生 普段は厳しい女教師が校内露出に耽っている姿を目撃してしまった僕は… 「学校的!,https://lsbbf2.com/20240329/IBKRbC3B/index.m3u8
@@ -3925,7 +3633,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 日本片商飲酒して性交渉 それとも性交渉して飲酒 なぎさ的!,https://lsbbf2.com/20240326/pjCLb2rZ/index.m3u8
 丝袜OL性奴隷シェアハウス～帰る場所も行くあてもない女たちをタダ同然で泊まらせる代わりに連日セックス漬け～的!,https://lsbbf2.com/20240326/zd4X2fC9/index.m3u8
 丝袜OL修学旅行中の女子生徒を次々と密着種付けピストンで中出しする鬼畜孕ませ教師的!,https://lsbbf2.com/20240326/eh28s4wR/index.m3u8
-#インタビュアー的!,https://lsbbf2.com/20240326/7Frag1sz/index.m3u8
+インタビュアー的!,https://lsbbf2.com/20240326/7Frag1sz/index.m3u8
 日本片商一億と二千年にひとりのサセコギャル あかりん的!,https://lsbbf2.com/20240326/HdFEEUUE/index.m3u8
 日本片商一万年と二千年にひとりのサセコギャル まいりん的!,https://lsbbf2.com/20240326/giiEvtqX/index.m3u8
 童颜巨乳夏休みの姪っ子たちの汗だく半裸乳首にフル勃起！「叔父さん乳首いっぱいイジってあげるね」姪っ子的!,https://lsbbf2.com/20240326/KvVPuQTd/index.m3u8
@@ -3978,7 +3686,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 网曝系列拍写真的陷阱,https://lsbbf2.com/20240326/yimseXRP/index.m3u8
 潘甜甜-手机里的秘密,https://lsbbf2.com/20240326/V0xwNG4P/index.m3u8
 麻豆传媒朋友妻可以騎 3p战场,https://lsbbf2.com/20240326/ZQp5qUkx/index.m3u8
-#002-淫荡又可爱的兔子,https://lsbbf2.com/20240326/uJjgeeZF/index.m3u8
+002-淫荡又可爱的兔子,https://lsbbf2.com/20240326/uJjgeeZF/index.m3u8
 炮机打桩白虎，高潮到抽搐,https://lsbbf2.com/20240326/Kgqly0wB/index.m3u8
 麻豆传媒朋友的巨乳妈妈勾引我,https://lsbbf2.com/20240326/EAGrHhNY/index.m3u8
 朋友妻最好骑,https://lsbbf2.com/20240326/l1eaBBn7/index.m3u8
@@ -4029,7 +3737,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 日本片商海ちかん湘南ビキニハンターはしゃぎ疲れたベロベロ水着ギャルおま○こに生チ○ポ挿し込み喰いあさる的!,https://lsbbf2.com/20240325/llfIKBJi/index.m3u8
 日本片商量潮吹き美人オトコの娘 ひめドットらぶ 浜辺さやか Second IMPACT 快感潮吹きモロ的!,https://lsbbf2.com/20240325/RLzm84L0/index.m3u8
 童颜巨乳課後逆バニー奴隷 無制限中出し風俗に堕ちた巨乳女教師的!,https://lsbbf2.com/20240325/rqQAcddo/index.m3u8
-#強制性交的!,https://lsbbf2.com/20240325/8eiaAwHF/index.m3u8
+強制性交的!,https://lsbbf2.com/20240325/8eiaAwHF/index.m3u8
 童颜巨乳絶妙タッチのおっぱいマッサージでおばさんが夢中になる巨乳中出し整体院的!,https://lsbbf2.com/20240325/OUI6Wqyp/index.m3u8
 日本片商裏切りの数珠繋ぎレ×プ！「逃げたかったら誰か呼べ！」ギャルを倉庫に監禁！ビンタ！イラマ！中出的!,https://lsbbf2.com/20240325/m8EUTShq/index.m3u8
 日本片商今からキミの親友を片っ端からレ×プします的!,https://lsbbf2.com/20240325/05xGwvZq/index.m3u8
@@ -4065,7 +3773,7 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 丝袜OL長160cmミニマム美少女オトコの娘 ひめドットらぶ小宮ななみ 感度良好！！エッチ大好きご奉仕的!,https://lsbbf2.com/20240325/hC713sKD/index.m3u8
 性感人妻レズ密着 ネコとタチ 女を狙う女 愛と欲望の日々的!,https://lsbbf2.com/20240325/5ZiVmjwW/index.m3u8
 日本有码初めての撮影で緊張したよ せいちゃろ的!,https://lsbbf2.com/20240325/gi58SfWi/index.m3u8
-#もも的!,https://lsbbf2.com/20240325/g0tSKgor/index.m3u8
+もも的!,https://lsbbf2.com/20240325/g0tSKgor/index.m3u8
 日本有码レズ密着 ネコとタチ 女と女のただれた性生活的!,https://lsbbf2.com/20240325/3Ow4ko0R/index.m3u8
 童颜巨乳れの巨乳女教師·里穂先生の無自覚おっぱいの誘惑に水泳部員の絶倫チ〇ポが奮い立ち来る日も来る日も的!,https://lsbbf2.com/20240325/2GctnmD4/index.m3u8
 日本有码彼氏と電話中に彼女が 上京し遠距離になった沖縄の彼氏と生通話NTRハメ撮り 年齢20代前半的!,https://lsbbf2.com/20240325/Qaf2jVy2/index.m3u8
@@ -4130,10 +3838,10 @@ A4腰健身教师 骚的不得了的!,https://lsbbf2.com/20240404/FD9W0D0g/index
 性感人妻お触り厳禁のメンエス店でお高くとまったメンエス嬢に思いきりビンタして激しくイラマしたら大人し的!,https://lsbbf2.com/20240324/nqpNmsKv/index.m3u8
 丝袜OLガスマスク オナホ女4名 【大量噴射·ガンギマリ·隔離済み】的!,https://lsbbf2.com/20240324/CJL0GhTC/index.m3u8
 丝袜OLオヤジ狩りJ〇暇を持て余した女子校生の新しい遊び的!,https://lsbbf2.com/20240324/rCdWiu55/index.m3u8
-#優しい娘的!,https://lsbbf2.com/20240324/A6r63XBU/index.m3u8
+優しい娘的!,https://lsbbf2.com/20240324/A6r63XBU/index.m3u8
 丝袜OLsweet！チャンピオン23 女子校生BEST！【変態カノジョスペシャル】·女子校生·ハメ撮的!,https://lsbbf2.com/20240324/4ujkD8Hf/index.m3u8
 性感人妻おじちゃんたちが夢想するイケナイお遊び 性的いたずら的!,https://lsbbf2.com/20240324/iY39Oyct/index.m3u8
-#お隣りさ的!,https://lsbbf2.com/20240324/DOq7I1xa/index.m3u8
+お隣りさ的!,https://lsbbf2.com/20240324/DOq7I1xa/index.m3u8
 性感人妻ぇ、今日これからキミの家に中出しSEXしに行ってイイ？ M男クンのお宅へ美谷朱里を突撃デリバリ的!,https://lsbbf2.com/20240324/GYakYBU9/index.m3u8
 日本片商エグいほど下品な生徒に成長した僕の教え子たちを見てください 大阪府某私立●校勤務56歳教諭より的!,https://lsbbf2.com/20240324/266mvia0/index.m3u8
 日本片商アスリートハンター 肉体観察と競技場内生挿れ中出しブッかけチカン的!,https://lsbbf2.com/20240324/9FKW1HK6/index.m3u8

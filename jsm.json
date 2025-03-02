@@ -1,7 +1,6 @@
 {
 "spider":"./jar/fan.txt;md5;793d41d0573885b6f21c8cef69624881",
 "lives":[
-{"name":"lion","type":0,"url":"./lion.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"cat","type":0,"url":"./cat.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"dog","type":0,"url":"./dog.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live","type":0,"url":"https://epg.pw/test_channels.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
