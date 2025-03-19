@@ -166,3 +166,28 @@ V1.1.2版本以下
 播放器： 
     https://github.com/Isayso/PlaylistEditorTV
     https://github.com/4gray/iptvnator
+
+
+
+import requests
+
+url = "https://api.siliconflow.cn/v1/chat/completions"
+
+payload = {
+    "model": "Qwen/QwQ-32B",
+    "stream": False,
+    "max_tokens": 512,
+    "temperature": 0.7,
+    "top_p": 0.7,
+    "top_k": 50,
+    "frequency_penalty": 0.5,
+    "n": 1
+}
+headers = {
+    "Authorization": "Bearer sk-ftzzbpddotyhrjprfsxyrvdqstrtluzibmhsyqwvtmhdjvke",
+    "Content-Type": "application/json"
+}
+
+response = requests.request("POST", url, json=payload, headers=headers)
+
+print(response.text)
